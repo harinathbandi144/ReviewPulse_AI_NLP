@@ -1,0 +1,34 @@
+# Core
+numpy
+pandas
+
+# NLP
+nltk
+spacy
+textblob
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Machine Learning
+scikit-learn
+
+# Web Scraping
+beautifulsoup4
+requests
+selenium
+
+# Deployment
+streamlit
+flask
+
+# Utilities
+tqdm
+joblib
+
+plotly
+joblib
+
+tqdm
